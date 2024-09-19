@@ -1,6 +1,4 @@
-# kacper-zadanie-witr
-strona ćwiczeniowa
-<!DOCTYPE html> 
+
 <html lang="pl-PL"> 
 <html> 
      <head> 
