@@ -21,7 +21,7 @@ strona ćwiczeniowa
 <h5> Hebel  </h1><br>
 <h4> Hebel  </h1><br>
 <h3> Hebel </h1><br>
-<h2> Hebel  </h1><br>
+<h2> Hebel  </h1<br>
 <h1> Hebel </h1><br>
 <p align="right"> <font color="yellow" size="5" face="Courier New"> :) uśmiech </font> </p> <br>
 <p align="right"> <font color="green" size="7" face="Times New Roman">  ;) uśmiech z przymrużeniem oka </font> </p> <br>
