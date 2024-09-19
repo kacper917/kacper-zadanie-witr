@@ -17,12 +17,12 @@ strona ćwiczeniowa
 <p align="right"> <font color="red" size="2" face="Arial"> Kacper </font> </p> <br>
 <p align="right"> <font color="red" size="1" face="Arial"> Kacper </font> </p> <br>
 
-<h6> Hebel   </h1><br> 
-<h5> Hebel  </h1><br>
-<h4> Hebel  </h1><br>
-<h3> Hebel </h1><br>
-<h2> Hebel  </h1<br>
-<h1> Hebel </h1><br>
+<h6> Hebel   <br> 
+<h5> Hebel  <br>
+<h4> Hebel  <br>
+<h3> Hebel <br>
+<h2> Hebel  <br>
+<h1> Hebel <br>
 <p align="right"> <font color="yellow" size="5" face="Courier New"> :) uśmiech </font> </p> <br>
 <p align="right"> <font color="green" size="7" face="Times New Roman">  ;) uśmiech z przymrużeniem oka </font> </p> <br>
 <p align="right"> <font color="gray" size="1" face="Verdana"> :( smutek, zmartwienie </font> </p> <br>
